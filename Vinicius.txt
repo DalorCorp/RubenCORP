@@ -1,4 +1,4 @@
 senha=1234
 nome=Vinicius
 nivel=admin
-ativo=false
+ativo=true
